@@ -1,0 +1,9 @@
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
+*.out
+*.bin
+*.bin.org
+sdbin/*.exe
+sdbin/sdbin
